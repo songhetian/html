@@ -1,7 +1,8 @@
 {
   "editor.fontSize": 15,
   "files.autoSave": "onFocusChange",
-  "editor.fontFamily": "FiraCode,Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'MesloLGL Nerd Font',FiraCode,Menlo, Monaco, 'Courier New', monospace",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
 }
